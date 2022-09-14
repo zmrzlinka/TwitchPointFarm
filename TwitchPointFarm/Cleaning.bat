@@ -1,0 +1,1 @@
+@RD /S /Q "C:\Users\miros\Documents\TwitchPointFarm\Twitch"
